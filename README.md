@@ -1,9 +1,8 @@
 # Bright-TV-Case-study-
-A case study on Bright tv viewership and analytics
 
 BrightTV Growth Analysis: Understanding Viewers to Drive Subscriptions
-The Context
 
+The Context
 BrightTV’s CEO set a clear goal for the year: grow the subscription base.
 
 On the surface, that sounds straightforward. But behind that goal sits a more interesting question:
